@@ -1,2 +1,0 @@
-# angularappm
-READme CREATED
